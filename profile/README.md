@@ -10,5 +10,6 @@
 ### Official Repositories & Downloads
 
 - 📦 **[yivpn-official/yivpn](https://github.com/yivpn-official/yivpn)** — Official multi-platform installer releases (`v1.0.4`), SHA-256 verification manifests, and 12-language documentation.
+- 🤖 **[yivpn-official/yivpn-agent-cli](https://github.com/yivpn-official/yivpn-agent-cli)** — Zero-account, zero-dependency CLI & AI Agent `SKILL.md` for the [YIVPN Agent VPN API](https://yivpn.net/en/vpn-api/) (`ed25519-v1` + `x402` + rootless `sing-box` proxy, MIT).
 - 🔀 **[yivpn-official/singbox-smart-split](https://github.com/yivpn-official/singbox-smart-split)** — Open-source `sing-box` Smart Split-Tunneling rule builder & LAN/banking direct-route templates (MIT).
-- 🌐 **Website**: [https://yivpn.net](https://yivpn.net) · [Download Center](https://yivpn.net/en/download/) · [Security Architecture](https://yivpn.net/en/security/)
+- 🌐 **Website**: [https://yivpn.net](https://yivpn.net) · [Download Center](https://yivpn.net/en/download/) · [Agent VPN API](https://yivpn.net/en/vpn-api/) · [Security Architecture](https://yivpn.net/en/security/)
