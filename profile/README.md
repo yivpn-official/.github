@@ -11,6 +11,6 @@
 ### Official Repositories & Downloads
 
 - 📦 **[yivpn-official/yivpn](https://github.com/yivpn-official/yivpn)** — Official multi-platform installer releases (`v1.0.4` with Local MCP Server), SHA-256 verification manifests, and 12-language documentation.
-- 🤖 **[yivpn-official/yivpn-agent-cli](https://github.com/yivpn-official/yivpn-agent-cli)** — Unified MCP Server (`stdio` bridge for [YIVPN Desktop Local MCP](https://yivpn.net/en/vpn-mcp/) + headless [Agent VPN API](https://yivpn.net/en/vpn-api/) `ed25519-v1` / `x402` CLI, MIT).
+- 🤖 **[yivpn-official/yivpn-agent-cli](https://github.com/yivpn-official/yivpn-agent-cli)** — Unified MCP Server (`stdio` bridge for [YIVPN Desktop Local MCP](https://yivpn.net/en/vpn-mcp/) + headless [Agent VPN API](https://yivpn.net/en/vpn-api/) `$0` 90m/1GiB Free Trial, `ed25519-v1` & `x402` CLI, MIT).
 - 🔀 **[yivpn-official/singbox-smart-split](https://github.com/yivpn-official/singbox-smart-split)** — Open-source `sing-box` Smart Split-Tunneling rule builder & LAN/banking direct-route templates (MIT).
 - 🌐 **Website**: [https://yivpn.net](https://yivpn.net) · [Download Center](https://yivpn.net/en/download/) · [VPN MCP](https://yivpn.net/en/vpn-mcp/) · [Agent VPN API](https://yivpn.net/en/vpn-api/) · [Security Architecture](https://yivpn.net/en/security/)
