@@ -10,7 +10,7 @@
 
 ### Official Repositories & Downloads
 
-- 📦 **[yivpn-official/yivpn](https://github.com/yivpn-official/yivpn)** — Official multi-platform installer releases (`v1.0.4` with Local MCP Server), SHA-256 verification manifests, and 12-language documentation.
+- 📦 **[yivpn-official/yivpn](https://github.com/yivpn-official/yivpn)** — Official multi-platform installer releases (`v1.0.5` with Local MCP Server), SHA-256 verification manifests, and 20-language documentation.
 - 🤖 **[yivpn-official/yivpn-agent-cli](https://github.com/yivpn-official/yivpn-agent-cli)** — Unified MCP Server, Rootless `sing-box` Proxy Daemon & CLI (`v2.0.0`: auto-bridges [Desktop Local MCP](https://yivpn.net/en/vpn-api/#desktop-mcp) + [Zero-Account Cloud VPN API](https://yivpn.net/en/vpn-api/), MIT).
 - 🔀 **[yivpn-official/singbox-smart-split](https://github.com/yivpn-official/singbox-smart-split)** — Open-source `sing-box` Smart Split-Tunneling rule builder & LAN/banking direct-route templates (MIT).
 - 🌐 **Website**: [https://yivpn.net](https://yivpn.net) · [Download Center](https://yivpn.net/en/download/) · [AI & API Hub (MCP + REST)](https://yivpn.net/en/vpn-api/) · [Security Architecture](https://yivpn.net/en/security/)
